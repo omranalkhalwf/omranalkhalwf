@@ -1,6 +1,8 @@
 <h3 align="center">### Hi there,I'm Omran Alkhalwf 👋</h3>
 <h3 align="center" style="color:red;">#### Cyber Security and Mobile Developer</h3>
 
+![Cyber Security and Mobile Developer](https://media.licdn.com/dms/image/D5616AQG5oaaGNTKyqw/profile-displaybackgroundimage-shrink_350_1400/0/1706038903251?e=1714608000&v=beta&t=13pxfjpHn7Uy6ZeKA_J7ohsTt4kxWEmsB9SPkWqXfuc)
+
 <h3>
 My interests lie in creating mobile applications and educating people about information security, especially given the increasing prevalence of cloud storage. My objective is to integrate operations management and efficient development, placing a strong emphasis on security and its critical role in safeguarding systems from online threats. Currently, I am working diligently to enhance my skills in this area as I pursue my studies in India
 </h3>
@@ -11,11 +13,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 <h1> Skills:  Flutter/dart/Java/C++/Network+/IT Support </h1>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omran-alk12&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omranalkhalwf&show_icons=true)
 
 <h3 align="left"> Connect with me: </h3>
 
-![Cyber Security and Mobile Developer](https://media.licdn.com/dms/image/D5616AQG5oaaGNTKyqw/profile-displaybackgroundimage-shrink_350_1400/0/1706038903251?e=1714608000&v=beta&t=13pxfjpHn7Uy6ZeKA_J7ohsTt4kxWEmsB9SPkWqXfuc)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/omranalkhalwf/)  
 
